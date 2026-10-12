@@ -36,3 +36,14 @@ Probala gratis 👉 https://stillset9.github.io/reciboya/
 Cualquier comentario o sugerencia me sirve muchísimo para seguir mejorándola. 🙌
 
 #Emprendimiento #Uruguay #DesarrolloWeb #PWA #Pymes #Productividad
+
+## TikTok – Hito Google Search Console (`videos/reciboya-gsc-tiktok.mp4`)
+
+```
+Mi app ya está en Google Search Console 👀🇺🇾 Hice ReciboYa yo solo: registrada, verificada, mapa del sitio enviado e indexación solicitada ✅ Todavía no aparece en Google, pero ya está en camino 🚀 ¿Vos seguís haciendo presupuestos en Word? Probala gratis 👇
+
+👉 stillset9.github.io/reciboya
+Seguime @stillset9 para ver el día que salga en Google 🔥
+
+#ReciboYa #Uruguay #HechoEnUruguay #Emprendedores #DesarrolloWeb #SEO #GoogleSearchConsole #Programacion #Emprender #Freelance #AppsUtiles
+```

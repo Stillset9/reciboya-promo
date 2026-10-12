@@ -14,3 +14,10 @@ Los textos para cada red están en [textos.md](textos.md).
 ReciboYa no emite comprobantes fiscales electrónicos (CFE) ni reemplaza la factura electrónica de DGI.
 
 © Héctor Juani (Stillset9). Todos los derechos reservados.
+
+
+## Video TikTok: hito Google Search Console
+
+Descarga directa: https://raw.githubusercontent.com/Stillset9/reciboya-promo/main/videos/reciboya-gsc-tiktok.mp4
+
+Texto para pegar en `textos.md`.
